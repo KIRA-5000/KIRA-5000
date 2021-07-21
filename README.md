@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 ### About me🧑:
 I am a Software Engineer.<br/>
-I am interested in  DS, Java , Ruby ,Chef and working on 💖 to grow my knowledge in these Areas.
+I am interested in  C, C++, Python, DevOps and working on 💖 to grow my knowledge in these Areas.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🔭 I’m currently working as a SDE.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate for Java Projects.
+- 👯 I’m looking to collaborate for DevOps Projects.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Chef, Terraform, Java and Ruby.
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=KIRA-5000.KIRA-5000)
